@@ -7,8 +7,8 @@
 * The Mysterious Affair at Styles 斯泰尔斯庄园奇案 1920
 * Murder on the Links 高尔夫球场命案 1923
 * The Murder of Roger Ackroyd 1926 罗杰疑案
-* The Big Four 1927 四魔头
-* The Mystery of the Blue Train 1928 蓝色列车之谜
+* The Big Four 四魔头 1927
+* The Mystery of the Blue Train 蓝色列车之谜 1928
 * Peril at End House 悬崖山庄奇案 1932
 * Lord Edgware Dies 人性记录/埃奇威尔爵士之死 1933
 * Murder on the Orient Express 东方快车谋杀案 1934  
@@ -39,11 +39,6 @@ TODO：
 * Hallowe’en Party 万圣节前夜的谋杀 1969
 * Elephants Can Remember 大象的证词 1972
 * Curtain 帷幕 1975
-
-
-
-
-
 
 ### 中短篇
 
@@ -120,7 +115,7 @@ TODO：
     The Thumb Mark of St Peter 圣彼得的拇指印
     The Blue Geranium 蓝色的天竺葵
     The Companion 陪伴
-    The Four Suspects 四个嫌疑人 
+    The Four Suspects 四个嫌疑人
     A Christmas Tragedy 圣诞节的悲剧
     The Herb of Death 死亡草
     The Affair at the Bungalow 小木屋事件
