@@ -33,10 +33,11 @@
 * Dead Man’s Folly 死人的殿堂/古宅迷踪/弄假成真 1956
 * Cat Among the Pigeons 鸽群中的猫 1959
 * The Clocks 怪钟疑案 1963
-
-TODO：
 * Third Girl 第三个女郎 1966
 * Hallowe’en Party 万圣节前夜的谋杀 1969
+
+TODO：
+
 * Elephants Can Remember 大象的证词 1972
 * Curtain 帷幕 1975
 
@@ -98,7 +99,6 @@ TODO：
 * A Pocket Full of Rye 黑麦奇案 1953
 * 4.50 from Paddington 命案目睹记 1957
 * The Mirror Crack’d from Side to Side 破镜谋杀案 1962
-TODO:
 * A Caribbean Mystery 加勒比海之谜 1964
 * At Bertram’s Hotel 伯特伦旅馆 1965
 * Nemesis 复仇女神 1971
@@ -121,7 +121,7 @@ TODO:
     The Affair at the Bungalow 小木屋事件
     Death by Drowning 沉溺而亡
 
-* Miss Marple’s Final Cases 马普尔小姐最后的案件 1979 包含：TODO
+* Miss Marple’s Final Cases 马普尔小姐最后的案件 1979 包含：
     Sanctuary 圣所
     Strange Jest 奇特的玩笑
     Tape-Measure Murder 软尺谋杀案
@@ -153,14 +153,11 @@ TODO:
 * They Came to Baghdad 他们来到巴格达 1951
 * Destination Unknown 地狱之旅/目的地不明 1954
 * Ordeal by Innocence 无妄之灾/奉命谋杀 1958
-
-TODO:
-
-* The Pale Horse 灰马酒店 1961 TODO
-* Endless Night 长夜 1967 TODO
-* By the Pricking of My Thumbs 煦阳岭的疑云 1968 TODO
-* Passenger to Frankfurt 天涯过客  1970 TODO
-* Postern of Fate 命运之门 1973 TODO
+* The Pale Horse 灰马酒店 1961
+* Endless Night 长夜 1967
+* By the Pricking of My Thumbs 煦阳岭的疑云 1968
+* Passenger to Frankfurt 天涯过客  1970
+* Postern of Fate 命运之门 1973
 
 ### 中短篇
 
@@ -241,3 +238,24 @@ TODO:
     Within a Wall 围墙之内
     The Mystery of the Baghdad Chest 巴格达箱子之谜（波洛）
     While the Light Lasts 灯火阑珊
+
+## 剧本
+
+TODO：
+
+* Black Coffee 黑咖啡 1930
+* The Mousetrap 捕鼠器 1952
+* Spider's Web 蜘蛛网 1954
+* Verdict 1958
+* The Unexpected Guest 意外来客 1958
+* Fiddlers Three 1972
+* Akhnaton 1973
+
+## 情感小说（Mary Westmacott）
+
+* Giant's Bread 撒旦的情歌
+* Unfinished Portrait 未完成的肖像
+* Absent in the Spring 幸福假面
+* The Rose and the Yew Tree 玫瑰与紫衫
+* A Daughter's a Daughter 母亲的女儿
+* The Burden 爱的重量
