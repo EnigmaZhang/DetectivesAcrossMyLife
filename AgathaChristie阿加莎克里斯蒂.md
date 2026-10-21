@@ -35,9 +35,6 @@
 * The Clocks 怪钟疑案 1963
 * Third Girl 第三个女郎 1966
 * Hallowe’en Party 万圣节前夜的谋杀 1969
-
-TODO：
-
 * Elephants Can Remember 大象的证词 1972
 * Curtain 帷幕 1975
 
@@ -241,8 +238,6 @@ TODO：
 
 ## 剧本
 
-TODO：
-
 * Black Coffee 黑咖啡 1930
 * The Mousetrap 捕鼠器 1952
 * Spider's Web 蜘蛛网 1954
@@ -252,6 +247,8 @@ TODO：
 * Akhnaton 1973
 
 ## 情感小说（Mary Westmacott）
+
+TODO：
 
 * Giant's Bread 撒旦的情歌
 * Unfinished Portrait 未完成的肖像
