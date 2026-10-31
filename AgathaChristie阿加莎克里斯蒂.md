@@ -155,6 +155,7 @@
 * By the Pricking of My Thumbs 煦阳岭的疑云 1968
 * Passenger to Frankfurt 天涯过客  1970
 * Postern of Fate 命运之门 1973
+* Agatha Christie: An Autobiography 阿加莎·克里斯蒂自传 1977
 
 ### 中短篇
 
